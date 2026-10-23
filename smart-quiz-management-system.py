@@ -4,7 +4,7 @@ import random
 
 questions = {
     "Python": [
-        {"question":"Who developed Python?","options":["Dennis Ritchie","Guido van Rossum","James Gosling","Linus Torvalds"],"answer":1},
+        {"question1":"Who developed Python?","options":["Dennis Ritchie","Guido van Rossum","James Gosling","Linus Torvalds"],"answer":1},
         {"question":"Which symbol is used for comments?","options":["//","#","/*","&"],"answer":1},
         {"question":"Which keyword defines a function?","options":["function","def","fun","define"],"answer":1},
         {"question":"Which data type stores True/False?","options":["int","float","bool","str"],"answer":2},
